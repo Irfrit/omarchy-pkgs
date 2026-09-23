@@ -24,7 +24,7 @@ makedepends=(
   'meson'
   'python'
   'valgrind'
-  'xsltproc'
+  'libxslt'
 )
 provides=('org.freedesktop.secrets')
 source=(
