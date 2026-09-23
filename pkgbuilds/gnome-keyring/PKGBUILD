@@ -20,6 +20,7 @@ depends=(
 )
 makedepends=(
   'docbook-xsl'
+  'glib2-devel'
   'git'
   'meson'
   'python'
